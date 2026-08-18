@@ -30,6 +30,8 @@ jobs:
 
       - name: Build frontend
         working-directory: frontend
+        env:
+          VITE_API_BASE_URL: https://spendly-a-full-stack-expense-tracking.onrender.com/api/v1
         run: npm run build
 
       - name: Setup Pages
