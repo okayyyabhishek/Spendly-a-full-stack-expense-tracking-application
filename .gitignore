@@ -1,0 +1,39 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+backend/.venv/
+
+# JavaScript
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Local databases and generated reports
+*.sqlite3
+*.db
+coverage/
+reports/
+
+# Local presentation build artifacts
+presentation-mbr-build/
+Spendly_Monthly_Business_Review/
+Spendly_Monthly_Business_Review.pptx
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Local test artifacts
+work/

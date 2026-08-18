@@ -1,0 +1,123 @@
+{"kind":"deck","id":"pr/w9qy4u","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"SPENDLY | LEADERSHIP REVIEW","textShapes":9}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/547294r6","slide":1,"bbox":[760,0,520,720]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"bbox":[832,86,336,470]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"text":"SPENDLY | LEADERSHIP REVIEW","textPreview":"SPENDLY | LEADERSHIP REVIEW","textChars":27,"textLines":1,"bbox":[78,72,410,34]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"text":"Monthly Business Review","textPreview":"Monthly Business Review","textChars":23,"textLines":1,"bbox":[76,196,610,138]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"text":"Leadership Team | [Month YYYY]","textPreview":"Leadership Team | [Month YYYY]","textChars":30,"textLines":1,"bbox":[82,348,540,42]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"text":"Revenue actual","textPreview":"Revenue actual","textChars":14,"textLines":1,"bbox":[872,126,240,32]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"text":"$[actual]","textPreview":"$[actual]","textChars":9,"textLines":1,"bbox":[872,164,250,46]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"bbox":[872,218,246,0]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"text":"Gross margin","textPreview":"Gross margin","textChars":12,"textLines":1,"bbox":[872,254,240,32]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"text":"[actual]%","textPreview":"[actual]%","textChars":9,"textLines":1,"bbox":[872,292,250,46]}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"bbox":[872,346,246,0]}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"text":"Cash runway","textPreview":"Cash runway","textChars":11,"textLines":1,"bbox":[872,382,240,32]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"text":"[actual] mo","textPreview":"[actual] mo","textChars":11,"textLines":1,"bbox":[872,420,250,46]}
+{"kind":"shape","id":"sh/5sfepcfe","slide":1,"bbox":[872,474,246,0]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\nNo external sources or factual business-performance claims are included. Bracketed values are editable placeholders pending the business close."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"SPENDLY | LEADERSHIP REVIEW","textShapes":17}
+{"kind":"shape","id":"sh/4zmxwzmp","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"text":"SPENDLY | LEADERSHIP REVIEW","textPreview":"SPENDLY | LEADERSHIP REVIEW","textChars":27,"textLines":1,"bbox":[68,38,320,30]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"bbox":[48,46,10,10]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,36,70,28]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"text":"Executive Snapshot","textPreview":"Executive Snapshot","textChars":18,"textLines":1,"bbox":[64,88,770,58]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"text":"One view of financial health, customer health, operating pace, and runway.","textPreview":"One view of financial health, customer health, operating pace, and runway.","textChars":74,"textLines":1,"bbox":[66,146,720,38]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"bbox":[64,666,1152,0]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"text":"Internal working draft | Validate close data before presentation","textPreview":"Internal working draft | Validate close data before presentation","textChars":64,"textLines":1,"bbox":[64,674,520,24]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"bbox":[72,238,492,132]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"bbox":[72,238,8,132]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"text":"Revenue actual","textPreview":"Revenue actual","textChars":14,"textLines":1,"bbox":[102,260,220,30]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"text":"$[actual]","textPreview":"$[actual]","textChars":9,"textLines":1,"bbox":[102,296,188,44]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"text":"[vs plan]","textPreview":"[vs plan]","textChars":9,"textLines":1,"bbox":[316,294,190,48]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"bbox":[620,238,492,132]}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"bbox":[620,238,8,132]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"text":"Active customers","textPreview":"Active customers","textChars":16,"textLines":1,"bbox":[650,260,220,30]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"text":"[actual]","textPreview":"[actual]","textChars":8,"textLines":1,"bbox":[650,296,188,44]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"text":"[vs prior month]","textPreview":"[vs prior month]","textChars":16,"textLines":1,"bbox":[864,294,190,48]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"bbox":[72,414,492,132]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"bbox":[72,414,8,132]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"text":"Gross margin","textPreview":"Gross margin","textChars":12,"textLines":1,"bbox":[102,436,220,30]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"text":"[actual]%","textPreview":"[actual]%","textChars":9,"textLines":1,"bbox":[102,472,188,44]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"text":"[vs plan]","textPreview":"[vs plan]","textChars":9,"textLines":1,"bbox":[316,470,190,48]}
+{"kind":"shape","id":"sh/hcvy14ne","slide":2,"bbox":[620,414,492,132]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"bbox":[620,414,8,132]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"text":"Cash runway","textPreview":"Cash runway","textChars":11,"textLines":1,"bbox":[650,436,220,30]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"text":"[actual] mo","textPreview":"[actual] mo","textChars":11,"textLines":1,"bbox":[650,472,188,44]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"text":"[basis]","textPreview":"[basis]","textChars":7,"textLines":1,"bbox":[864,470,190,48]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\nNo external sources or factual business-performance claims are included. Bracketed values are editable placeholders pending the business close."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"SPENDLY | LEADERSHIP REVIEW","textShapes":14}
+{"kind":"shape","id":"sh/l4fi9cza","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"text":"SPENDLY | LEADERSHIP REVIEW","textPreview":"SPENDLY | LEADERSHIP REVIEW","textChars":27,"textLines":1,"bbox":[68,38,320,30]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"bbox":[48,46,10,10]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,36,70,28]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"text":"Revenue trend and drivers","textPreview":"Revenue trend and drivers","textChars":25,"textLines":1,"bbox":[64,88,770,58]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"text":"Compare six months of actuals with plan, then name the driver that changes the next decision.","textPreview":"Compare six months of actuals with plan, then name the driver that changes the next decision.","textChars":93,"textLines":1,"bbox":[66,146,720,38]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"bbox":[64,666,1152,0]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"text":"Internal working draft | Use closed monthly actuals","textPreview":"Internal working draft | Use closed monthly actuals","textChars":51,"textLines":1,"bbox":[64,674,520,24]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"bbox":[76,232,720,330]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"bbox":[126,286,616,0]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"bbox":[126,348,616,0]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"bbox":[126,410,616,0]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"bbox":[126,472,616,0]}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"bbox":[146,415.8,56,88.2]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"text":"M-5","textPreview":"M-5","textChars":3,"textLines":1,"bbox":[138,514,72,26]}
+{"kind":"shape","id":"sh/x8nml0ra","slide":3,"bbox":[240,386.4,56,117.6]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"text":"M-4","textPreview":"M-4","textChars":3,"textLines":1,"bbox":[232,514,72,26]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"bbox":[334,399,56,105]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"text":"M-3","textPreview":"M-3","textChars":3,"textLines":1,"bbox":[326,514,72,26]}
+{"kind":"shape","id":"sh/e10f2twf","slide":3,"bbox":[428,361.2,56,142.8]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"text":"M-2","textPreview":"M-2","textChars":3,"textLines":1,"bbox":[420,514,72,26]}
+{"kind":"shape","id":"sh/03ix43e5","slide":3,"bbox":[522,375.9,56,128.1]}
+{"kind":"textbox","id":"sh/14ryd8fq","slide":3,"text":"M-1","textPreview":"M-1","textChars":3,"textLines":1,"bbox":[514,514,72,26]}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"bbox":[616,340.2,56,163.8]}
+{"kind":"textbox","id":"sh/re9g7yxo","slide":3,"text":"M","textPreview":"M","textChars":1,"textLines":1,"bbox":[608,514,72,26]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"bbox":[856,248,326,270]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"text":"Leadership readout","textPreview":"Leadership readout","textChars":18,"textLines":1,"bbox":[894,286,248,34]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"text":"[Metric] is [actual] vs [plan].","textPreview":"[Metric] is [actual] vs [plan].","textChars":31,"textLines":1,"bbox":[894,336,238,82]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"text":"Driver: [cause]. Next: [action].","textPreview":"Driver: [cause]. Next: [action].","textChars":32,"textLines":1,"bbox":[894,440,224,46]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\nNo external sources or factual business-performance claims are included. Bracketed values are editable placeholders pending the business close."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"SPENDLY | LEADERSHIP REVIEW","textShapes":21}
+{"kind":"shape","id":"sh/elwba54j","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"text":"SPENDLY | LEADERSHIP REVIEW","textPreview":"SPENDLY | LEADERSHIP REVIEW","textChars":27,"textLines":1,"bbox":[68,38,320,30]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"bbox":[48,46,10,10]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,36,70,28]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"text":"Decisions and commitments","textPreview":"Decisions and commitments","textChars":25,"textLines":1,"bbox":[64,88,770,58]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"text":"Close with owned actions, due dates, and a clear view of what leadership must decide.","textPreview":"Close with owned actions, due dates, and a clear view of what leadership must decide.","textChars":85,"textLines":1,"bbox":[66,146,720,38]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"bbox":[64,666,1152,0]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"text":"Internal working draft | Validate owners before close","textPreview":"Internal working draft | Validate owners before close","textChars":53,"textLines":1,"bbox":[64,674,520,24]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"bbox":[76,232,430,46]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"text":"Decision / risk","textPreview":"Decision / risk","textChars":15,"textLines":1,"bbox":[86,240,410,30]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"bbox":[506,232,210,46]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"text":"Executive owner","textPreview":"Executive owner","textChars":15,"textLines":1,"bbox":[516,240,190,30]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"bbox":[716,232,160,46]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"text":"Due","textPreview":"Due","textChars":3,"textLines":1,"bbox":[726,240,140,30]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"bbox":[876,232,220,46]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"text":"Status","textPreview":"Status","textChars":6,"textLines":1,"bbox":[886,240,200,30]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"bbox":[76,278,430,74]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"text":"Confirm priority trade-offs","textPreview":"Confirm priority trade-offs","textChars":27,"textLines":1,"bbox":[86,294,410,42]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"bbox":[506,278,210,74]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"text":"[Owner]","textPreview":"[Owner]","textChars":7,"textLines":1,"bbox":[516,294,190,42]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"bbox":[716,278,160,74]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"text":"[Date]","textPreview":"[Date]","textChars":6,"textLines":1,"bbox":[726,294,140,42]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"bbox":[876,278,220,74]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"text":"Decision required","textPreview":"Decision required","textChars":17,"textLines":1,"bbox":[886,294,200,42]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"bbox":[76,352,430,74]}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"text":"Approve off-plan KPI mitigation","textPreview":"Approve off-plan KPI mitigation","textChars":31,"textLines":1,"bbox":[86,368,410,42]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"bbox":[506,352,210,74]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"text":"[Owner]","textPreview":"[Owner]","textChars":7,"textLines":1,"bbox":[516,368,190,42]}
+{"kind":"shape","id":"sh/sri9s7q9","slide":4,"bbox":[716,352,160,74]}
+{"kind":"textbox","id":"sh/ilwf69kv","slide":4,"text":"[Date]","textPreview":"[Date]","textChars":6,"textLines":1,"bbox":[726,368,140,42]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"bbox":[876,352,220,74]}
+{"kind":"textbox","id":"sh/knex8j21","slide":4,"text":"At risk","textPreview":"At risk","textChars":7,"textLines":1,"bbox":[886,368,200,42]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"bbox":[76,426,430,74]}
+{"kind":"textbox","id":"sh/axcf29kj","slide":4,"text":"Validate next-month commitments","textPreview":"Validate next-month commitments","textChars":31,"textLines":1,"bbox":[86,442,410,42]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"bbox":[506,426,210,74]}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"text":"[Owner]","textPreview":"[Owner]","textChars":7,"textLines":1,"bbox":[516,442,190,42]}
+{"kind":"shape","id":"sh/xknyx4ja","slide":4,"bbox":[716,426,160,74]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"text":"[Date]","textPreview":"[Date]","textChars":6,"textLines":1,"bbox":[726,442,140,42]}
+{"kind":"shape","id":"sh/nulw7u18","slide":4,"bbox":[876,426,220,74]}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"text":"On track","textPreview":"On track","textChars":8,"textLines":1,"bbox":[886,442,200,42]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\nNo external sources or factual business-performance claims are included. Bracketed values are editable placeholders pending the business close."}

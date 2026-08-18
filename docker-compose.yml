@@ -1,0 +1,23 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: spendly-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-expense_tracker}
+      MYSQL_USER: ${MYSQL_USER:-expense_app}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-change-me-local}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-change-me-root-local}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./infra/mysql:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-p$$MYSQL_ROOT_PASSWORD"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  mysql_data:
